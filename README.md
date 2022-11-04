@@ -1,2 +1,2 @@
-# K8S-EKS-DEMOS
-This code is for K8S-EKS-AWS Class Demos
+# eks-demos
+Readme file to be updated
